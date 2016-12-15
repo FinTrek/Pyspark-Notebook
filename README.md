@@ -9,4 +9,4 @@ Notebook about Learning Spark.<br/>
 2: run command: PYSPARK_DRIVER_PYTHON=jupyter PYSPARK_DRIVER_PYTHON_OPTS="notebook" $SPARK_HOME/bin/pyspark<br/>
 <br/>
 <br/>
-3: Then, in the browser, enter directory Pyspark-Notebook and open the IPython notebook.<br/> 
+3: Then, in the browser, enter directory Pyspark-Notebook and open the IPython notebook. You can use Alt+Enter to run the code block.<br/> 
